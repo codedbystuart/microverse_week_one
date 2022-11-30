@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Stuart_Githubflow_Linters] <a name="about-project"></a>
+# 📖 Stuart_Githubflow_Linters <a name="about-project"></a>
 
 <!-- > Describe your project in 1 or 2 sentences. -->
 
